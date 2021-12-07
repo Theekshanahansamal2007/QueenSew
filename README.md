@@ -22,7 +22,7 @@
 ***
 
 
-<table><tr><th>Theekshana hansamal</th><th>Ravindu Manoj </th></tr><tr><td><a href="https://github.com/Theekshanahansamal2007/theekshana-hansamal.git"><img src="https://i.ibb.co/TgrpFF2" width="180" alt="https://i.ibb.co/TgrpFF2"></a></td><td><a href="https://github.com/ravindu01manoj"><img src="https://i.ibb.co/GMDtzJK/9c7cd57913d3.jpg" width="180" alt="Ravindu Manoj"></a></td></tr><tr><td>Owner</td><td>Developer & Owner </td></tr></table><table><tr><th>Muthu</th><th>Dilusha</th><th>Umeda</th></tr><tr><td><a href="https://github.com/ravindu01manoj"><img src="https://i.ibb.co/Ph9cxMm/6c995889c9b9.jpg" width="180" alt="Muthu"></a></td><td><a href="http://github.com/dilushamandila"><img src="https://i.ibb.co/qRZ0cqd/7ac4bab5ced2.jpg" width="180" alt="Dilusha"></a></td><td><a href="http://github.com/umedaewandee"><img src="https://i.ibb.co/fFDw0K5/8190782ff481.jpg" width="180" alt="Umeda"></a></td></tr><tr><td>Voice & Idea </td><td> Graphics & Group Management</td><td>Group Management & Idea</td></tr></table>
+<table><tr><th>Theekshana hansamal</th><th>Ravindu Manoj </th></tr><tr><td><a href="https://github.com/Theekshanahansamal2007/theekshana-hansamal.git"><img src="https://i.ibb.co/TgrpFF2" width="180" alt="🇱🇰"></a></td><td><a href="https://github.com/ravindu01manoj"><img src="https://i.ibb.co/GMDtzJK/9c7cd57913d3.jpg" width="180" alt="Ravindu Manoj"></a></td></tr><tr><td>Owner</td><td>Developer & Owner </td></tr></table><table><tr><th>Muthu</th><th>Dilusha</th><th>Umeda</th></tr><tr><td><a href="https://github.com/ravindu01manoj"><img src="https://i.ibb.co/Ph9cxMm/6c995889c9b9.jpg" width="180" alt="Muthu"></a></td><td><a href="http://github.com/dilushamandila"><img src="https://i.ibb.co/qRZ0cqd/7ac4bab5ced2.jpg" width="180" alt="Dilusha"></a></td><td><a href="http://github.com/umedaewandee"><img src="https://i.ibb.co/fFDw0K5/8190782ff481.jpg" width="180" alt="Umeda"></a></td></tr><tr><td>Voice & Idea </td><td> Graphics & Group Management</td><td>Group Management & Idea</td></tr></table>
 
 
 ***
@@ -59,8 +59,12 @@ $ cd qr
 $ node sew.js
 ```
 # 🇱🇰🇱🇰🇱🇰sri lanka🇱🇰🇱🇰🇱🇰
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=san+serif&color=%23F786EB&size=30&lines=මගේ +නම +තීක්ෂණ +හන්සමල්+🇱🇰🇱🇰🇱🇰+whatsapp+number;Now+0741844543+Can+msg+anytime+📱+bye+බුදුසරණයි+Service)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=san+serif&color=%23F786EB&size=15&lines=We+Cloned+A+Base+Added+Some+Scripts;Now+U+Can+Deploy+Ur+Self%2C+Enjoy+The+Service)](https://git.io/typing-svg)
 
 <p align="center">
+
+
+
+# 0741844543
 
 ![IMG-20211116-WA0078](https://user-images.githubusercontent.com/94382409/145032430-dbc4b735-4800-417e-b5f4-e9da61aed774.png)

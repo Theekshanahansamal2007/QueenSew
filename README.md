@@ -59,7 +59,7 @@ $ cd qr
 $ node sew.js
 ```
 # 🇱🇰🇱🇰🇱🇰sri lanka🇱🇰🇱🇰🇱🇰
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=san+serif&color=%23F786EB&size=30&lines=We+Cloned+A+Base+Added+Some+Scripts;Now+U+Can+Deploy+Ur+Self%2C+Enjoy+The+Service)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=san+serif&color=%23F786EB&size=30&lines=මගේ +නම +තීක්ෂණ +හන්සමල්+🇱🇰🇱🇰🇱🇰+whatsapp+number;Now+0741844543+Can+msg+anytime+📱+bye+බුදුසරණයි+Service)](https://git.io/typing-svg)
 
 <p align="center">
 

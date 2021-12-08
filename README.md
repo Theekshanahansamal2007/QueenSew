@@ -26,7 +26,7 @@
 
 
 ***
-<div align="center"><h1>✬✬ Sew Queen Is World Best Whatsapp Bot Ever ✬✬</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/1d9ff8a76d20d4d151780c68c59beeb68b318e88/media/ezgif.com-video-to-gif%20(1).gif" width="15580"></a></div>
+<div align="center"><h1>✬✬ Sew Queen Is World Best Whatsapp Bot Ever ✬✬</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://github.com/ravindu01manoj/ravindu manoj/ 94382409/145160449-8367429e-efbe-4700-95a2-161502e997ac.mp4/media/ezgif.com-video-to-gif%20(1).gif" width="15580"></a></div>
 
 ***
 > [Documentation](https://github.com/ravindu01manoj/Sew-Queen/wiki/Add-Your-Own-Cmd-For-Sew-Queen-Whatsapp-Bot)
@@ -60,6 +60,10 @@ $ node sew.js
 ```
 
 
+
+
+
+https://user-images.githubusercontent.com/94382409/145160449-8367429e-efbe-4700-95a2-161502e997ac.mp4
 
 
 

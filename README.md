@@ -65,6 +65,6 @@ $ node sew.js
 
 
 
-# 0741844543
+https://wa.me/94741844543
 
 ![IMG-20211116-WA0078](https://user-images.githubusercontent.com/94382409/145032430-dbc4b735-4800-417e-b5f4-e9da61aed774.png)

@@ -58,13 +58,12 @@ $ node sew.js
 $ cd qr
 $ node sew.js
 ```
-# 🇱🇰🇱🇰🇱🇰sri lanka🇱🇰🇱🇰🇱🇰
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=san+serif&color=%23F786EB&size=15&lines=කට්ටිය+මේ +number+එකට+msg+දාන්න 0741844543+Scripts;Now+U+Can+Deploy+Ur+Self%2C+Enjoy+The+tikka+🇱🇰🇱🇰🇱🇰🇱🇰+Service)](https://git.io/typing-svg)
-
-<p align="center">
 
 
 
->(https://wa.me/94741844543)
+
+
+
+!(https://wa.me/94741844543)
 
 ![IMG-20211116-WA0078](https://user-images.githubusercontent.com/94382409/145032430-dbc4b735-4800-417e-b5f4-e9da61aed774.png)
